@@ -1,0 +1,11 @@
+{
+  "rows": 30000,
+  "top_score": 100.0,
+  "median_score": 0.0,
+  "rule": {
+    "score_formula": "100 if stale_and_visible else 65 if visible_and_high_volume else 0",
+    "reason_code": "stale_visible_page | high_volume_visible_page | monitor_only",
+    "action_label": "refresh | review_for_refresh | monitor"
+  },
+  "output_path": "/content/flyrank-ml-internship-starter/work/outputs/baseline_action_score.csv"
+}
