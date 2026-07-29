@@ -3,7 +3,7 @@
 - **Author:** Fahad Alam Jamal
 - **Lane:** Refresh / Content Opportunity Scoring
 - **Repo:** https://github.com/Fahad-Alam-Jamal/Flyrank_ML_Internship
-- **Date:** 2026-07-29
+- **Date:** 29-07-2026
 
 > This report uses the FlyRank internship dataset and the starter pipeline in `work/`. It compares a transparent Week-4 refresh baseline to a client-aware logistic model that ranks pages for refresh review.
 
